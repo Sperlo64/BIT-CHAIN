@@ -6,6 +6,7 @@ There is a large problem in today's EVM blockchain list, below I will list probl
 - BTC: 5TPS
 - ETH: 10TPS
 - BSC: 150TPS
+
 As you can see, we offer a large scale more TPS blockchain service and thus, with major adoption, we will not incur these problems. 
 
 2: Public Mempool: Public Mempools have their perks for only a small handful of Blockchain users. You will usually find having public access to the Mempool provides direct access to unverified transactions waiting to be verified, this opens the gateway for only people with the relivant knowledge to take advantage of users who don't have the same knowledge.
