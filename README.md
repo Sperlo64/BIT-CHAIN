@@ -1,5 +1,5 @@
-# MemoriChain
-Memori Chain is a new concept EVM blockchain
+# BITCHAIN
+BIT CHAIN is a new concept EVM blockchain
 
 There is a large problem in today's EVM blockchain list, below I will list problems I see and what I look to solve:
 1: Low TPS; Most public EVM blockchains have a very low TPS and so will adventually run into scaling issues with adoption. We saw this with the Binance smart chain at the peak of Crypto Mines Eternal adoption. The blockchain went down several times with a lot of investors being affected by not being able to manage assets at the time and incured losses due to the chain going down. This was caused by peak TPS being reached on chain by NFT game CryptoMines Eternal. Memori Chain will boast a 150k TPS. To give you an idea of how much of an improvment this is in comparison to other blockchains, here is a list of popular blockchains tps:
