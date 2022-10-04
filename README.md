@@ -6,6 +6,7 @@ There is a large problem in today's EVM blockchain list, below I will list probl
 - BTC: 5TPS
 - ETH: 10TPS
 - BSC: 150TPS
+- Bit-Chain: 150,000TPS
 
 As you can see, we offer a large scale more TPS blockchain service and thus, with major adoption, we will not incur these problems. 
 
